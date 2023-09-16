@@ -1,0 +1,24 @@
+{
+  "name": "product-landing",
+  "version": "1.0.0",
+  "description": "A Product Landing Package",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbailey0690/product-landing.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "vanilla"
+  ],
+  "author": "Tim Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbailey0690/product-landing/issues"
+  },
+  "homepage": "https://github.com/tbailey0690/product-landing#readme"
+}
